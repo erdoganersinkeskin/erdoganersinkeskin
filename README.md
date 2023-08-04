@@ -37,7 +37,7 @@ My B.Sc. background is in electronics and communication engineering.
 ![](https://github-contributor-stats.vercel.app/api?username=erdoganersinkeskin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## My Ranks
-[![trophy](https://github-profile-trophy.vercel.app/?username=erdoganersinkeskin&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=erdoganersinkeskin&theme=onedark&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <!--
 **erdoganersinkeskin/erdoganersinkeskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
