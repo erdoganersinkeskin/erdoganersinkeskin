@@ -15,12 +15,12 @@ My B.Sc. background is in electronics and communication engineering.
 
 <!--
 >  # P.S.: Colors represent knowledge and experience with 6 levels; <br>
-> Color1 : Remember (Most Basic Level) <br>
-> Color2 : Understand <br>
-> Color3 : Apply <br>
-> Color4 : Analyze <br>
-> Color5 : Evaluate <br>
-> Color6 : Create (Most Advanced Level) <br>
+> Blue   : Remember (Most Basic Level) <br>
+> Green  : Understand <br>
+> Red    : Apply <br>
+> Orange : Analyze <br>
+> Purple : Evaluate <br>
+> Black  : Create (Most Advanced Level) <br>
 
 -->
 # 📊 GitHub Stats:
