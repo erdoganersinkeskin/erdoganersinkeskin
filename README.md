@@ -38,7 +38,7 @@ My B.Sc. background is in electronics and communication engineering.
 
 ## My Ranks
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=erdoganersinkeskin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=erdoganersinkeskin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **erdoganersinkeskin/erdoganersinkeskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
