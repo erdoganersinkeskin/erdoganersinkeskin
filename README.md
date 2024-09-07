@@ -1,5 +1,5 @@
 ### Hi everyone! 👋 I am Erdoğan Ersin Keskin.
-I am a junior software developer.
+I am a software developer.
 My B.Sc. background is in electronics and communication engineering.
 
 📖 I’m currently working on .Net projects, and small AI projects on Python
