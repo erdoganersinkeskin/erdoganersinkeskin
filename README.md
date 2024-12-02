@@ -2,7 +2,7 @@
 I am a software developer.
 My B.Sc. background is in electronics and communication engineering.
 
-📖 I’m currently working on .Net projects and small AI projects on Python
+📖 I’m currently working on .NET projects, and small AI projects with cloud base environment.
 🌱 I'm focusing on learning Machine Learning and exploring new technologies in this field.
 
 📫 How to reach me: erdoganersinkeskin@gmail.com 
