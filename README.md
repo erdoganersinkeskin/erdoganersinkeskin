@@ -1,11 +1,11 @@
 <!-- Introduction -->
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
+<div style="display: flex; justify-content: center; align-items: center; text-align: center; gap: 1rem">
+    <div style="text-align: center;">
       ## Erdogan Ersin Keskin <br /> Full-time Software Developer | Part-time Indie Maker
     </div>
     <div>
-      <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align-items="center" height="200" width="300" />
+      <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" style="display: block;" height="200" width="300" />
     </div>
 </div>
 
