@@ -1,12 +1,12 @@
 <!-- Introduction -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    ## Erdogan Ersin Keskin <br /> Full-time Software Developer | Part-time Indie Maker
-  </div>
-  <div>
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align="center" height="200" width="300" />
-  </div>
+    <div>
+      ## Erdogan Ersin Keskin <br /> Full-time Software Developer | Part-time Indie Maker
+    </div>
+    <div>
+      <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align-items="center" height="200" width="300" />
+    </div>
 </div>
 
 ### Hi everyone! 👋 I am Erdogan Ersin Keskin.
