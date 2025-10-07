@@ -13,8 +13,9 @@
 
 About me:
 
-- An indie maker
 - A software developer
+- An indie maker
+- An electronics engineer
 
 My B.Sc. background is in electronics and communication engineering.
 
@@ -27,13 +28,12 @@ My B.Sc. background is in electronics and communication engineering.
 ##
 
 <hr>
-
+<!-- Contact -->
 📫 How to reach me: erdoganersinkeskin@gmail.com
 
 #### Find out [more](https://erdoganersinkeskin.github.io/).
 
 <!-- Online Presence -->
-<!-- Contact -->
 
 <br />
 ##
@@ -47,17 +47,17 @@ My B.Sc. background is in electronics and communication engineering.
 <a href="https://dev.to/knightbaryon" target="blank"><img style="margin-right: 10px;" align="left" alt="dev.to" width="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png"/></a>
 <a href="mailto:erdoganersinkeskin@gmail.com" target="blank"><img style="margin-right: 10px;" align="left" alt="email" width="30" src="https://www.pngrepo.com/png/243092/512/gmail.png"/></a>
 
-<!--   Tech Stack   -->
-
 <br />
+
+<!--   Tech Stack   -->
 
 # 💻 Tech Stack:
 
-## Languages, Frameworks and Tools
+<!-- ## Languages, Frameworks and Tools -->
 
-### Languages
+<!-- ### Languages -->
 
-### Frameworks
+<!-- ### Frameworks -->
 
 ### Tools
 
@@ -130,9 +130,9 @@ Here are some ideas to get you started:
 
 </details>
 
-## My Stacks
+<!-- ## My Stacks -->
 
-<table><tr><td valign="top" width="15%">
+<!-- <table><tr><td valign="top" width="15%">
 
 ### Backend
 
@@ -148,7 +148,7 @@ Here are some ideas to get you started:
 
 ### Used at least once
 
-</td></table>
+</td></table> -->
 
 <br>
 
