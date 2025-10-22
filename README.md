@@ -29,10 +29,10 @@
 
 ```yaml
 🛠️ Specialization: Scalable backend systems using ASP.NET Core
-🚀 Projects: CoreXCrudAPI
+🚀 Projects: project.A4B2D7
 🎯 Focus: REST APIs • JWT Auth • Clean Architecture
 🌱 Learning: CI/CD · Microservices · System Design
-👩🏻‍🏫 Community: Women in Tech Advocate, Dev Mentor
+👩🏻‍🏫 Community: Dev Mentor
 🎯 Mission: Build clean, testable, and modular .NET ecosystems
 🔭 I'm currently working on **a project A4B2D7.**
 📖 I’m currently working on .NET projects and small AI projects with a cloud-based environment.
