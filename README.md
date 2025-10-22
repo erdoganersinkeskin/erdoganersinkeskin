@@ -203,11 +203,11 @@ while(debugging) {
 
 ## 🗂️ Featured Projects
 
-### 📦 `CoreXCrudAPI`
+### 📦 `TestProjectAPI`
 
 > Modern CRUD API with ASP.NET Core
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-CoreXCrudAPI-ff6ec4?style=for-the-badge&logo=github)](https://github.com/ThecoderPinar/CoreXCrudAPI)
+[![View on GitHub](https://img.shields.io/badge/GitHub-TestProject-ff6ec4?style=for-the-badge&logo=github)](https://github.com/erdoganersinkeskin/erdoganersinkeskin)
 
 A lightweight API project featuring user, product, and order management. Built with .NET Core, EF Core, AutoMapper, FluentValidation, JWT Auth, and rate limiting.
 
@@ -240,20 +240,12 @@ A lightweight API project featuring user, product, and order management. Built w
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdoganersinkeskin" alt="erdoganersinkeskin" /></a> </p>
 
-![](https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange&style=flat&label=Profile+Views)
-
-![](https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange)
-
 ![](https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange&style=flat&label=How+Many+Times+Visited:+Profile+Views)
 
 ![](https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange&style=flat&label=Profile+Views)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdoganersinkeskin&label=Profile views&color=0e75b6&style=flat" alt="erdoganersinkeskin" /> </p>
 
-![Maintainer](https://img.shields.io/badge/erdoganersinkeskin-maintainer-linkedln-blue)
-[![Maintenance](https://img.shields.io/badge/erdoganersinkeskin-instagram-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-[![saythanks](https://img.shields.io/badge/erdoganersinkeskin-medium-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
-![Profile views](https://gpvc.arturio.dev/erdoganersinkeskin)
 [![GitHub followers](https://img.shields.io/github/followers/cansuclaire.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/erdoganersinkeskin?tab=followers)
 
 ## 🌀 Contribution Graph
