@@ -69,13 +69,4 @@
 
 ```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=erdoganersinkeskin&theme=onedark&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdoganersinkeskin" alt="erdoganersinkeskin" /></a> </p>
-
-![](https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange&style=flat&label=How+Many+Times+Visited:+Profile+Views)
-
 ![](https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange&style=flat&label=Profile+Views)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erdoganersinkeskin&label=Profile views&color=0e75b6&style=flat" alt="erdoganersinkeskin" /> </p>
-
