@@ -3,25 +3,18 @@
 <!-- Introduction -->
 <div style="display: flex; justify-content: center; align-items: center; text-align: center; gap: 1rem">
     <div style="text-align: center;">
-      Hi everyone! 👋 <br /> I am, Erdogan Ersin Keskin. <br />🛠️🌩️ <strong style="color:#ec0000">Electronics Engineer</strong> | <span style="color:#ca6fd5">.NET Software Enthusiast</span>
-<!-- My B.Sc. background is in electronics and communication engineering. -->
+      Hi everyone! 👋<br>I am **Erdogan Ersin Keskin**<br>🛠️🌩️ **Electronics Engineer** &#124; *.NET Software Enthusiast*
     </div>
     <div>
-      <img src="../erdoganersinkeskin/assets/me_in_rivendell_animation.gif" style="display: block;" height="200" width="350" />
+      <img src="assets/me_in_rivendell_animation.gif" alt="Erdogan Ersin Keskin" width="350" />
     </div>
 </div>
 
 <br />
 
-<div style="text-align: center;">
-  An engineer who try to build meaningful things as a solo.
-</div>
+<p align="center">An engineer who tries to build meaningful things solo.</p>
 
-<br />
-<p align="center">
-  <b>Future-proof</b> • <b>Scalablity</b> • <b>Sustainability</b> • <b>Cost-effectiveness</b><br>
-  <i>Clean architecture, sharp code, and meaningful systems</i>
-</p>
+<p align="center"><b>Future-proof</b> • <b>Scalability</b> • <b>Sustainability</b> • <b>Cost-effectiveness</b><br><i>Clean architecture, sharp code, and meaningful systems</i></p>
 
 ##
 
@@ -185,9 +178,7 @@ while(debugging) {
 </table>
 </div>
 
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/></a>
-
 
 ## 🛠 Development Setup
 
