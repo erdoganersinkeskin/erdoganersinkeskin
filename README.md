@@ -1,7 +1,7 @@
 <!-- ⚡ 'Simplicity is the ultimate sophistication'-->
 
 <p align="center">
-  <img src="assets/me_in_rivendell_animation.gif" alt="Erdogan Ersin Keskin" />
+  <img src="assets/me_in_rivendell_animation.gif" alt="Erdogan Ersin Keskin" size="80%"/>
 </p>
 
 <!-- About Me Section with Gradient Border -->
@@ -37,36 +37,8 @@
         };
     }
 
-    internal void DevelopmentPhilosophy()
-    {
-        Dictionary<string, string> developmentPhilosophy = new Dictionary<string, string>
-        {
-            { "Less dependencies", "More quality" },
-            { "High number transaction capabilities", "Better to think at least little bit" },
-            { "Simplicity", "For complex problems" }
-        };
-    }
-
-    internal void TechStacks()
-    {
-        Dictionary<string, string> techStacks = new Dictionary<string, string>
-        {
-            { "past", "C, C++, C#, Python" },
-            { "present", "C#, .NET" },
-            { "future", "C#, .NET, AI-assisted whatever needed" }
-        };
-    }
-
-    internal void Deployment()
-    {
-        Dictionary<string, string> deployment = new Dictionary<string, string>
-        {
-            { "Microsoft Azure", "When needed" },
-            { "AWS", "When needed" },
-            { "Google Cloud", "When needed" }
-        };
-    }
-
 ```
 
-![](https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange&style=flat&label=Profile+Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange&style=flat&label=Profile+Views" alt="Profile Views" />
+</p>
