@@ -17,7 +17,6 @@
     string creatorFocus = "Human-based tools for good";
     string creatorApproach = "Building things that do not die";
     string creatorOneLineIntroducer = "An engineer who tries to build meaningful things solo";
-    string creatorMotto = "";
 
     internal void CurrentProjects()
     {
