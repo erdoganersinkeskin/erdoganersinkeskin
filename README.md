@@ -1,11 +1,10 @@
 <!-- ⚡ 'Simplicity is the ultimate sophistication'-->
 
-<img src="assets/me_in_rivendell_animation.gif" alt="Erdogan Ersin Keskin" width="350" align-items="center" />
+<p align="center">
+  <img src="assets/me_in_rivendell_animation.gif" alt="Erdogan Ersin Keskin" />
+</p>
 
 <!-- About Me Section with Gradient Border -->
-<div align-items="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-</div>
 
 <div align-items="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" />
@@ -69,3 +68,14 @@
     }
 
 ```
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=erdoganersinkeskin&theme=onedark&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdoganersinkeskin" alt="erdoganersinkeskin" /></a> </p>
+
+![](https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange&style=flat&label=How+Many+Times+Visited:+Profile+Views)
+
+![](https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange&style=flat&label=Profile+Views)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erdoganersinkeskin&label=Profile views&color=0e75b6&style=flat" alt="erdoganersinkeskin" /> </p>
+
