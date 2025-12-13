@@ -12,8 +12,8 @@
 
 ```csharp
     string creatorName = "Erdogan Ersin Keskin";
-    string creatorTitle = "Electronics Engineer | .NET Software Enthusiast";
-    string creatorLocation = "Rivendell, Middle Earth"; // in my mind :)
+    string creatorTitle = "Electronics and Communication Engineer | .NET Software Enthusiast";
+    string creatorLocation = "Rivendell, Middle-earth"; // in my mind :)
     string creatorFocus = "Human-based tools for good";
     string creatorApproach = "Building things that do not die";
     string creatorOneLineIntroducer = "An engineer who tries to build meaningful things solo";
