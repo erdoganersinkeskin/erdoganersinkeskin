@@ -22,7 +22,7 @@
     {
         string projectName = "Project: A4B2D7";
         string projectDefinition = string.Empty;
-        List<string> projectTools = new List<string> { "VS Code", "GitHub Copilot" };
+        List<string> projectTools = new List<string> { "VS Code", "GitHub Copilot", "Visual Studio" };
  
     }
 
