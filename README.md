@@ -21,8 +21,8 @@
     internal void CurrentProjects()
     {
         string projectName = "Project: A4B2D7";
-        string projectDefinition = string.Empty;  //  coming soon
-        List<string> projectTools = new List<string> { "VS Code", "GitHub Copilot", "Visual Studio" };
+        string projectDefinition = string.Empty;
+        List<string> projectTools = new List<string> { "VS Code", "GitHub Copilot" };
  
     }
 
