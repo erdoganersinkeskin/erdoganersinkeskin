@@ -12,17 +12,17 @@
 
 ```csharp
     string creatorName = "Erdogan Ersin Keskin";
-    string creatorTitle = "Electronics and Communication Engineer | .NET Software Enthusiast";
-    string creatorLocation = "Rivendell, Middle-earth"; // in my mind :)
-    string creatorFocus = "Human-based tools for good";
+    string creatorTitle = "Electronics and Communication Engineer | .NET Software Enthusiast | Content Creator";
+    string creatorLocation = "Rivendell, Middle-earth"; //  in my mind :)
+    string creatorFocus = "Human-based tools for good | Sustainability";
     string creatorApproach = "Building things that do not die";
-    string creatorOneLineIntroducer = "An engineer who tries to build meaningful things solo";
+    string creatorOneLineIntroducer = "An engineer who tries to build meaningful things as a solo";
 
     internal void CurrentProjects()
     {
         string projectName = "Project: A4B2D7";
-        string projectDefinition = string.Empty;
-        List<string> projectTools = new List<string> { "VS Code", "GitHub Copilot" };
+        string projectDefinition = string.Empty;  //  coming soon
+        List<string> projectTools = new List<string> { "VS Code", "GitHub Copilot", "Visual Studio" };
  
     }
 
