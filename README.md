@@ -11,33 +11,44 @@
 </div>
 
 ```csharp
-    string creatorName = "Erdogan Ersin Keskin";
-    string creatorTitle = "Electronics and Communication Engineer | .NET Software Enthusiast | Content Creator";
-    string creatorLocation = "Rivendell, Middle-earth"; //  in my mind :)
-    string creatorFocus = "Human-based tools for good | Sustainability";
-    string creatorApproach = "Building things that do not die";
-    string creatorOneLineIntroducer = "An engineer who tries to build meaningful things as a solo";
+public class AboutMe
+{
+    public string CreatorName { get; } = "Erdogan Ersin Keskin";
+    public string CreatorTitle { get; } = "Electronics and Communication Engineer | .NET Enthusiast | Content Creator";
+    public string CreatorOneLineIntroducer { get; } = "An engineer who tries to build meaningful things as a solo";
+    public string CreatorLocation { get; } = "Rivendell, Middle-earth"; // in my mind :)
+    public string CreatorFocus { get; } = "Human-centric tools for good | Sustainability";
+    public string CreatorApproach { get; } = "Building robust and useful things that do not die";
+    
+    public List<string> CreatorInventory { get; } = new List<string> 
+    { 
+        "C#", 
+        ".NET", 
+        "Modern technologies when needed"
+    };
 
-    internal void CurrentProjects()
+    internal (string Name, string Definition, List<string> Tools) GetCurrentProject()
     {
-        string projectName = "Project: A4B2D7";
-        string projectDefinition = string.Empty;
-        List<string> projectTools = new List<string> { "VS Code", "GitHub Copilot", "Visual Studio" };
- 
+        var projectName = "Project: A4B2D7";
+        var projectDefinition = string.Empty;
+        var projectTools = new List<string> { "VS Code", "GitHub Copilot", "Visual Studio" };
+
+        return (projectName, projectDefinition, projectTools);
     }
 
-    internal void NearFutureAims()
+    internal Dictionary<string, string> GetNearFutureAims()
     {
-        Dictionary<string, string> nearPublicFutureAims = new Dictionary<string, string>
+        return new Dictionary<string, string>
         {
             { "🤖 MCP Experience", "Creating useful MCPs for tiny daily problems" },
             { "☁️ Life-cycle", "Longevity-based tools development" },
             { "⚡ Launch", "First launch with B2C concept" }
         };
     }
-
+}
 ```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erdoganersinkeskin&color=orange&style=flat&label=Profile+Views" alt="Profile Views" />
 </p>
+
