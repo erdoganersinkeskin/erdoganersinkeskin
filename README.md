@@ -1,13 +1,13 @@
 <!-- ⚡ 'Simplicity is the ultimate sophistication'-->
 
 <p align="center">
-  <img src="assets/me_in_rivendell_animation.gif" alt="Erdogan Ersin Keskin" size="80%"/>
+  <img src="assets/me_in_rivendell_animation.gif" alt="Erdogan Ersin Keskin" width="480"/>
 </p>
 
 <!-- About Me Section with Gradient Border -->
 
-<div align-items="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
 
 ```csharp
@@ -15,7 +15,7 @@ public class AboutMe
 {
     public string CreatorName { get; } = "Erdogan Ersin Keskin";
     public string CreatorTitle { get; } = "Electronics and Communication Engineer | .NET Enthusiast | Content Creator";
-    public string CreatorOneLineIntroducer { get; } = "An engineer who tries to build meaningful things as a solo";
+    public string CreatorOneLineIntroducer { get; } = "An engineer who tries to build meaningful things as a solo developer";
     public string CreatorLocation { get; } = "Rivendell, Middle-earth"; // in my mind :)
     public string CreatorFocus { get; } = "Human-centric tools for good | Sustainability";
     public string CreatorApproach { get; } = "Building robust and useful things that do not die";
